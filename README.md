@@ -2,6 +2,10 @@
 
 **FinTrack** is a terminal-based financial tracking app written in Python. It helps you monitor your **incomes**, **expenses**, and provides **detailed monthly and yearly summaries**. Simple and efficient, it's built to give you clear insights into your financial activity.
 
+<p align="center">
+  <img src="assets/FINTRACK2.png">
+</p>
+
 ---
 
 ## 📊 Features Overview
@@ -72,16 +76,15 @@ python3 project.py
 
 ## 📝 Example Usage
 
-Upon launch, you’ll see:
-
-→ Tap 1 to add a new income
-→ Tap 2 to add a new expense
-→ Tap 3 to display a summary of your [current month]'s finances
-→ Tap 4 to display a summary of any month's finances
-→ Tap 5 to display a summary of this year's finances
-→ Tap 6 to get access to the details of your [current month]'s finances
-→ Tap 7 to get access to the details of any month's finances
-→ Tap 0 to end the program
+Upon launch, you’ll see:  
+→ Tap **1** to add a new income  <br>
+→ Tap **2** to add a new expense  <br>
+→ Tap **3** to display a summary of your `[current month]`'s finances  <br>
+→ Tap **4** to display a summary of any month's finances  <br>
+→ Tap **5** to display a summary of this year's finances  <br>
+→ Tap **6** to get access to the details of your `[current month]`'s finances  <br>
+→ Tap **7** to get access to the details of any month's finances  <br>
+→ Tap **0** to end the program
 
 
 ---
