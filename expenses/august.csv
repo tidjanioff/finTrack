@@ -1,0 +1,16 @@
+source,amount,category,payment method,date
+House,2600,Rent,Debit Card,1
+Albertsons,275.75,Groceries,Credit Card,5
+Hydro-Quebec,123.00,Utilities,Debit Card,3
+Chevron,60.20,Fuel,Credit Card,9
+Telus,94.80,Utilities,Debit Card,6
+Amusement Park,95.00,Entertainment,Credit Card,14
+Fitness Center,48.00,Health,Debit Card,8
+Walgreens,33.00,Health,Cash,11
+Concert,30.00,Entertainment,Credit Card,12
+Lululemon,230.50,Shopping,Credit Card,17
+Just Eat,49.00,Fast Food,Paypal,15
+Hulu,15.99,Subscription,Credit Card,19
+Apple Music,10.99,Subscription,Credit Card,22
+Museum,25.00,Education,Credit Card,24
+Best Buy,155.30,Shopping,Credit Card,28

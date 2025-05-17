@@ -1,0 +1,16 @@
+source,amount,category,payment method,date
+House,2600,Rent,Debit Card,1
+Kroger,295.40,Groceries,Credit Card,5
+Hydro-Quebec,127.30,Utilities,Debit Card,3
+Sunoco,64.00,Fuel,Credit Card,9
+Bell,98.50,Utilities,Debit Card,6
+Ski Resort,110.00,Entertainment,Credit Card,14
+Yoga Studio,55.00,Health,Debit Card,8
+Walgreens,36.00,Health,Cash,11
+Art Gallery,35.00,Entertainment,Credit Card,12
+Columbia,250.00,Shopping,Credit Card,17
+Uber Eats,55.00,Fast Food,Paypal,15
+Hulu,15.99,Subscription,Credit Card,19
+Apple Music,10.99,Subscription,Credit Card,22
+Training Course,45.00,Education,Credit Card,24
+Newegg,162.30,Shopping,Credit Card,28

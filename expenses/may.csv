@@ -1,0 +1,16 @@
+source,amount,category,payment method,date
+House,2600,Rent,Debit Card,1
+Kroger,255.30,Groceries,Credit Card,5
+Hydro-Quebec,120.10,Utilities,Debit Card,3
+Gas Station,54.00,Fuel,Credit Card,9
+Bell,93.00,Utilities,Debit Card,6
+Restaurant,85.25,Entertainment,Credit Card,14
+Gym,45,Health,Debit Card,8
+Pharmacy,31.00,Health,Cash,11
+Cinema,22.00,Entertainment,Credit Card,12
+Zara,210.75,Shopping,Credit Card,17
+Postmates,48.30,Fast Food,Paypal,15
+Netflix,13.99,Subscription,Credit Card,19
+Spotify,9.99,Subscription,Credit Card,22
+Bookstore,38.75,Education,Credit Card,24
+Amazon,150.25,Shopping,Credit Card,28

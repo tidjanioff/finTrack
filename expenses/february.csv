@@ -1,0 +1,16 @@
+source,amount,category,payment method,date
+House,2600,Rent,Debit Card,1
+Costco,276.40,Groceries,Credit Card,5
+Hydro-Quebec,118.95,Utilities,Debit Card,3
+Gas Station,55.00,Fuel,Credit Card,9
+Bell,90.30,Utilities,Debit Card,6
+Restaurant,80.25,Entertainment,Credit Card,14
+Gym,45,Health,Debit Card,8
+Pharmacy,29.99,Health,Cash,11
+Cinema,22.50,Entertainment,Credit Card,12
+Adidas,210.10,Shopping,Credit Card,17
+Uber Eats,45.00,Fast Food,Paypal,15
+Netflix,13.99,Subscription,Credit Card,19
+Spotify,9.99,Subscription,Credit Card,22
+Bookstore,40.00,Education,Credit Card,24
+Amazon,145.60,Shopping,Credit Card,28
