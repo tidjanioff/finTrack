@@ -3,7 +3,7 @@
 **FinTrack** is a terminal-based financial tracking app written in Python. It helps you monitor your **incomes**, **expenses**, and provides **detailed monthly and yearly summaries**. Simple and efficient, it's built to give you clear insights into your financial activity.
 
 <p align="center">
-  <img src="assets/FINTRACK2.png">
+  <img src="assets/FINTRACK3.png">
 </p>
 
 ---
