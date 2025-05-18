@@ -202,7 +202,7 @@ def month_prompt():
     while True:
         try:
             if first_time:
-                month_option = ((str(input("\nEnter the month for which you want to display the finances\n$ ")))
+                month_option = ((str(input("\nPlease enter the month\n$ ")))
                                 .capitalize())
                 first_time = False
             else:
