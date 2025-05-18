@@ -20,6 +20,13 @@
 
 ---
 
+## 🎬 Live Demo
+
+🎥 [Watch the live demo on YouTube](https://youtu.be/k4D-Yvv9-KU)
+
+
+---
+
 ## 🎯 Objectives
 
 - 📥 Track all your financial inflows and outflows.
