@@ -37,7 +37,12 @@
 git clone https://github.com/tidjanioff/finTrack.git
 ```
 
-### 2. Run the App
+### 2. Install Dependencies
+```bash
+pip install -r assets/requirements.txt 
+```
+
+### 3. Run the App
 
 Navigate to the project folder:
 
